@@ -6,6 +6,7 @@
   <div class="menubar">
     <RouterLink to="/">Home</RouterLink>
     <RouterLink to="/about">About</RouterLink>
+    ㅁㄴㅇㄹ
   </div>
   <RouterView />
 </template>
